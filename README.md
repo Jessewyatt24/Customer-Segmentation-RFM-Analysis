@@ -18,15 +18,15 @@ The goal of this project is to move beyond aggregate sales reporting and answer 
 
 ### Customer share vs. spending contribution
 
-![Customer share vs. spending contribution](images/segment_spending_share.png)
+![Customer share vs. spending contribution](images/segment_spending_share.svg)
 
 ### Inactivity by customer segment
 
-![Average days since last purchase by segment](images/segment_recency.png)
+![Average days since last purchase by segment](images/segment_recency.svg)
 
 ### Highest-value At-Risk customers
 
-![Top high-value at-risk customers](images/top_at_risk_customers.png)
+![Top high-value at-risk customers](images/top_at_risk_customers.svg)
 
 ## Methodology
 
@@ -82,9 +82,9 @@ customer-rfm-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── images/
-    ├── segment_spending_share.png
-    ├── segment_recency.png
-    └── top_at_risk_customers.png
+    ├── segment_spending_share.svg
+    ├── segment_recency.svg
+    └── top_at_risk_customers.svg
 ```
 
 ## Run Locally
